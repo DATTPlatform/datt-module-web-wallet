@@ -1,0 +1,11 @@
+io/nuls/wallet/controller/NulsResourceConfig$CORSFilter.class
+io/nuls/wallet/controller/ApiCallController.class
+io/nuls/wallet/Config.class
+io/nuls/wallet/MyModule.class
+io/nuls/wallet/controller/WebServer.class
+io/nuls/wallet/controller/NulsResourceConfig.class
+io/nuls/wallet/WebWalletBootstrap.class
+io/nuls/wallet/Utils.class
+io/nuls/wallet/controller/MarketApiController.class
+io/nuls/wallet/controller/FrontEndController.class
+io/nuls/wallet/controller/WebServerManager.class
